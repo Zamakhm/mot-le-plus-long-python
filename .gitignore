@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+scores_utilisateurs.txt
+sauvegarde_partie.txt
+.idea/
