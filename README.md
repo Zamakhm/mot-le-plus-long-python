@@ -1,6 +1,10 @@
 # 🎮 Mot le plus long — Python Game
 A two-player word game built in Python demonstrating algorithmic logic and data persistence.
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/status-completed-success)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 
 Inspired by the famous French TV show *Des chiffres et des lettres*, this project implements a two-player word game where players must build the longest valid French word from randomly generated letters.
 
